@@ -1,0 +1,9 @@
+🤖 Open AI Rubber Ducky 🐥
+
+AccessKey obtained from Picovoice Console (https://console.picovoice.ai/)
+OpenAI API Token obtained from OpenAI Console (https://beta.openai.com/)
+
+Set both in a .env file in the root of the project.
+
+Build the project: cargo build
+Run the project: cargo run
